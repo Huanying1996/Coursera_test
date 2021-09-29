@@ -1,5 +1,5 @@
 # Coursera_test
 
 
-This is Jonathon, an animal lovers who happen to like to code
+This is Jonathon, an animal lover who happens to like snore
 Now he's joining github
